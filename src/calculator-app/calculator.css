@@ -1,0 +1,29 @@
+.background{
+    background-color: bisque;
+    height: 45rem;
+    margin: 10px;;
+}
+ .button{ 
+     min-width: 15%; 
+     align-content: center;
+     margin-right: 1%;
+     margin-bottom: 1%;
+     border-radius: 5px;
+ } 
+.calinput{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 95%;
+    border-radius: 3px;
+}
+.card2{
+    padding: 10px;
+    width: 35rem;
+    background-color: burlywood;
+    margin-left: 35%;
+    margin-top: 8%;
+}
+.btn{
+    padding: 10px;
+    width: 100%;
+}
